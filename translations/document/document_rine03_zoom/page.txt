@@ -1,0 +1,7 @@
+
+■page_0
+
+[button source=09_sns/zoom/akune_RINE posX=0 posY=0 sizeX=1280 sizeY=720 priority=22]
+
+
+

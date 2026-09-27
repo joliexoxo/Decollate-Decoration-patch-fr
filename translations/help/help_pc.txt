@@ -1,0 +1,71 @@
+■― Fonctions de base (1/2) ―
+- LOG
+Affiche l'historique des messages.
+Après avoir chargé une sauvegarde, l'historique ne remonte pas avant son chargement.
+
+- AUTO
+Fait défiler le texte automatiquement.
+La vitesse peut être réglée dans les options.
+
+- PASSER
+Passe le texte jusqu'au prochain choix.
+Dans les options, tu peux choisir de passer tout le texte ou seulement celui déjà lu.
+
+- MENU
+Affiche le menu.
+
+- Clavier　　C : MASQUER
+
+■― Fonctions de base (2/2) ―
+- SAUVEGARDER : ouvre l'écran de sauvegarde.
+
+- CHARGER : ouvre l'écran de chargement.
+
+- INDICE : ouvre l'écran des indices.
+
+- JOURNAL : ouvre l'historique des commandes.
+
+- OPTIONS : ouvre les réglages.
+
+- CRÉDITS : ouvre le générique.
+
+- TITRE : retourne à l'écran titre.
+
+■ Mini-jeux
+Tu peux jouer aux mini-jeux préférés d'Anata depuis le menu du prologue.
+
+<b><i>GOHAN (service du riz)</i></b>
+
+Continue simplement à remplir le bol de riz !
+Rater n'entraîne aucune pénalité et la partie ne se termine jamais.
+Du sekihan (riz rouge) apparaîtra parfois.
+Ce mini-jeu n'a aucun effet sur ta progression,
+alors joue quand tu veux.
+Le but est juste de bien te remplir le ventre ; augmenter la portion ne change rien.
+
+Remerciements : COOL&WARM
+
+
+
+<b><i>Pommes</i></b>
+
+Attrape les pommes qui tombent aussi vite que possible !
+Le temps total nécessaire pour en attraper 3 sera enregistré comme score.
+Ce mini-jeu n'a aucun effet sur ta progression,
+alors joue quand tu veux.
+
+■ Précautions
+Zone autorisée à l'enregistrement : l'histoire principale et toutes les histoires annexes
+peuvent être diffusées ou enregistrées.
+Merci toutefois d'éviter les actions suivantes :
+
+- Utiliser des scènes révélant l'intrigue comme miniatures de vidéos.
+
+- Publier des révélations sur les réseaux sociaux.
+
+- Diffuser ou partager la galerie.
+
+Pour connaître les règles précises et les dernières informations concernant la diffusion,
+consulte les règles de contenu pour les fans.
+
+Règles de contenu pour les fans : https://www.kemco.jp/guideline/fan_movie_EN.html

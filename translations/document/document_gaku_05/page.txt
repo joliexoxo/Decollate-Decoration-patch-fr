@@ -1,0 +1,160 @@
+
+
+
+■page_0
+
+
+
+
+
+
+
+
+[button source=ui/bs01_l_off source_on=ui/bs01_l_on source_select=ui/bs01_l_on posX=36 posY=110 sizeX=60 sizeY=60 priority=12 sound= action=document_open_menu(document_gaku_04) action=document_close(document_gaku_05) shortcut=L1 guide=bs01_l_off_sub]
+
+
+
+
+[button source=ui/bs01_r_off source_on=ui/bs01_r_on source_select=ui/bs01_r_on posX=1160 posY=110 sizeX=60 sizeY=60 priority=12 sound= action=document_open_menu(document_gaku_06) action=document_close(document_gaku_05) shortcut=R1 guide=bs01_r_off_sub guideX=55]
+
+
+
+
+[sprite source=81_button/icon_mya_active posX=630 posY=66 sizeX=114 sizeY=114 priority=35]
+
+
+
+
+[sprite source=81_button/icon_mya posX=110 posY=360 sizeX=114 sizeY=114 priority=12]
+
+
+
+
+[text posX=120 posY=276 fontsize=20 color=#FFFFFF font=KHDotKagurazaka priority=12]
+Carte d'étudiant
+[/text]
+
+
+[text posX=300 posY=276 fontsize=20 color=#FFFFFF font=KHDotKagurazaka priority=12]
+École secondaire Tennozaki
+[/text]
+
+
+[text posX=130 posY=317 fontsize=15 color=#000000 font=KHDotKagurazaka priority=12]
+La personne suivante est certifiée
+[/text]
+
+
+[text posX=130 posY=335 fontsize=15 color=#000000 font=KHDotKagurazaka priority=12]
+un élève de cette école.
+[/text]
+
+
+[text posX=240 posY=360 fontsize=15 color=#000000 font=KHDotKagurazaka priority=12]
+Numéro de l'étudiant: 100620771
+[/text]
+
+
+[text posX=240 posY=388 fontsize=15 color=#000000 font=KHDotKagurazaka priority=12]
+Sexe : Femmes
+[/text]
+
+
+
+
+
+
+
+[text posX=240 posY=420 fontsize=15 color=#000000 font=KHDotKagurazaka priority=12]
+Nom: Rira Miyauchi
+[/text]
+
+
+[text posX=240 posY=448 fontsize=15 color=#000000 font=KHDotKagurazaka priority=12]
+Date de naissance: 11 novembre
+[/text]
+
+
+[text posX=130 posY=488 fontsize=15 color=#000000 font=KHDotKagurazaka priority=12]
+Remarque: 
+[/text]
+
+
+[text posX=230 posY=470 fontsize=15 color=#000000 font=KHDotKagurazaka priority=12]
+Frais médicaux désignés
+[/text]
+
+
+[text posX=230 posY=488 fontsize=15 color=#000000 font=KHDotKagurazaka priority=12]
+Bénéficiaire
+[/text]
+
+
+[text posX=1110 posY=223 fontsize=30 color=#000000 font=KHDotKagurazaka priority=12]
+Commentaires
+[/text]
+
+
+[text posX=900 posY=270 fontsize=20 color=#000000 font=KHDotKagurazaka priority=12]
+Premier mandat
+[/text]
+
+
+[text posX=640 posY=300 fontsize=20 color=#000000 font=KHDotKagurazaka priority=12]
+Elle a eu plus d'absences que l'an dernier.
+[/text]
+
+
+[text posX=640 posY=335 fontsize=20 color=#000000 font=KHDotKagurazaka priority=12]
+en raison de la maladie, mais elle reste positive et
+[/text]
+
+
+[text posX=640 posY=370 fontsize=20 color=#000000 font=KHDotKagurazaka priority=12]
+- J'ai bien compris. En même temps, il est un peu
+[/text]
+
+
+[text posX=640 posY=405 fontsize=20 color=#000000 font=KHDotKagurazaka priority=12]
+difficile de voir ses vrais sentiments.
+[/text]
+
+
+[text posX=640 posY=440 fontsize=20 color=#000000 font=KHDotKagurazaka priority=12]
+Nous continuerons de surveiller la situation en tant que
+[/text]
+
+
+[text posX=640 posY=475 fontsize=20 color=#000000 font=KHDotKagurazaka priority=12]
+ne vous parle pas beaucoup de son esprit.
+[/text]
+
+
+[text posX=640 posY=510 fontsize=20 color=#000000 font=KHDotKagurazaka priority=12]
+Nous l'avons parfois vue étudier avec
+[/text]
+
+
+[text posX=640 posY=545 fontsize=20 color=#000000 font=KHDotKagurazaka priority=12]
+amis à la bibliothèque.
+[/text]
+
+
+[text posX=640 posY=580 fontsize=20 color=#000000 font=KHDotKagurazaka priority=12]
+Cela peut expliquer sa stabilité scolaire.
+[/text]
+
+
+[text posX=640 posY=615 fontsize=20 color=#000000 font=KHDotKagurazaka priority=12]
+Il est probable qu'elle puisse obtenir l'appui de
+[/text]
+
+
+[text posX=640 posY=650 fontsize=20 color=#000000 font=KHDotKagurazaka priority=12]
+d'autres qui contribuent à son succès, cependant
+[/text]
+
+
+[text posX=640 posY=685 fontsize=20 color=#000000 font=KHDotKagurazaka priority=12]
+Elle devrait s'abstenir de parler pendant le cours.
+[/text]

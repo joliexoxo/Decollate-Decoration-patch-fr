@@ -1,0 +1,16 @@
+
+■page_0
+
+[sprite source=minigame/background_front posX=0 posY=0 sizeX=1280 sizeY=720 priority=22]
+
+[sprite source=gohan/gohan_background posX=492 posY=20 sizeX= sizeY= priority=18]
+
+[sprite source=gohan/gohan_usagi_1 posX=510 posY=100 sizeX= sizeY= priority=19]
+
+[sprite source=gohan/gohan_rogo posX=497 posY=292 sizeX= sizeY= priority=21]
+
+[sprite source=gohan/gohan_front posX=492 posY=370 sizeX= sizeY= priority=20]
+
+[sprite source=gohan/gohanhelp posX=1100 posY=370 sizeX= sizeY= priority=23]
+
+[sprite source=gohan/topic_gohan posX=10 posY=200 sizeX= sizeY= priority=23]

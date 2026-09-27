@@ -1,0 +1,2 @@
+■page_0
+[button posX=1188 posY=16 source=81_button/back_button1 source_on=81_button/back_button2 source_select=81_button/back_button2 action=document_close(document_credit,document_hint) priority=11 shortcut=B guide=b01_off_sub guideX=-20 guideY=20]

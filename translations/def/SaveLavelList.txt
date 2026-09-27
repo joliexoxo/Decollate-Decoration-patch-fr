@@ -1,0 +1,30 @@
+scene1,Ouverture
+d1_day1,Première semaine
+d2_day2,Deuxième semaine
+d3_day3,Troisième semaine
+d4_day4,Quatrième semaine
+d5_day5,Cinquième semaine
+d5e_day5_rfa,Cinquième semaine
+d6_day6,Sixième semaine
+d6e_day6_rfa,Sixième semaine
+d7_day7,Septième semaine
+d7e_day7_rfa,Septième semaine
+e1_end1,Fin
+e2_end2,Fin
+e3_end3,Fin
+e4_end4,Fin
+e5_end5,Fin
+e6_end6,Fin
+EX01,Prologue : avr.
+EX02,Prologue : mai
+EX03,Prologue : juin
+EX04,Prologue : juil.
+EX05,Prologue : août
+EX01自宅,Prologue : avr.
+EX02自宅,Prologue : mai
+EX03自宅,Prologue : juin
+EX04自宅,Prologue : juil.
+EX05自宅,Prologue : août
+EX01自宅冒頭,Prologue : avr.
+EX02自宅冒頭,Prologue : mai
+後日譚,Épilogue

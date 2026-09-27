@@ -1,0 +1,29 @@
+■page_0
+[button posX=1188 posY=16 source=81_button/back_button1 source_on=81_button/back_button2 source_select=81_button/back_button2 action=document_close(document_diary) priority=12 shortcut=B guide=b01_off_sub guideX=-20 guideY=20]
+
+
+
+[sprite source=08_diary/$var[f.1週目] posX=248 posY=185 sizeX= sizeY= priority=13]
+[sprite source=08_diary/$var[f.2週目] posX=518 posY=185 sizeX= sizeY= priority=13]
+[sprite source=08_diary/$var[f.3週目] posX=784 posY=185 sizeX= sizeY= priority=13]
+[sprite source=08_diary/$var[f.4週目] posX=1049 posY=185 sizeX= sizeY= priority=13]
+[sprite source=08_diary/$var[f.5週目] posX=248 posY=401 sizeX= sizeY= priority=13]
+[sprite source=08_diary/$var[f.6週目] posX=518 posY=401 sizeX= sizeY= priority=13]
+[sprite source=08_diary/$var[f.7週目] posX=784 posY=401 sizeX= sizeY= priority=13]
+
+[sprite source=08_diary/$var[f.塩] posX=1022 posY=401 sizeX= sizeY= priority=13]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

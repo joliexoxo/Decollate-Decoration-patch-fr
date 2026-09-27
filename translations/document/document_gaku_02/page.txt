@@ -1,0 +1,160 @@
+
+
+
+■page_0
+
+
+
+
+
+
+
+
+[button source=ui/bs01_l_off source_on=ui/bs01_l_on source_select=ui/bs01_l_on posX=36 posY=110 sizeX=60 sizeY=60 priority=12 sound= action=document_open_menu(document_gaku_01) action=document_close(document_gaku_02) shortcut=L1 guide=bs01_l_off_sub]
+
+
+
+
+[button source=ui/bs01_r_off source_on=ui/bs01_r_on source_select=ui/bs01_r_on posX=1160 posY=110 sizeX=60 sizeY=60 priority=12 sound= action=document_open_menu(document_gaku_03) action=document_close(document_gaku_02) shortcut=R1 guide=bs01_r_off_sub guideX=55]
+
+
+
+
+[sprite source=81_button/icon_kimi_active posX=240 posY=66 sizeX=114 sizeY=114 priority=35]
+
+
+
+
+[sprite source=81_button/icon_kimi posX=110 posY=360 sizeX=114 sizeY=114 priority=12]
+
+
+
+
+[text posX=120 posY=276 fontsize=20 color=#FFFFFF font=KHDotKagurazaka priority=12]
+Carte d'étudiant
+[/text]
+
+
+[text posX=300 posY=276 fontsize=20 color=#FFFFFF font=KHDotKagurazaka priority=12]
+École secondaire Tennozaki
+[/text]
+
+
+[text posX=130 posY=317 fontsize=15 color=#000000 font=KHDotKagurazaka priority=12]
+La personne suivante est certifiée
+[/text]
+
+
+[text posX=130 posY=335 fontsize=15 color=#000000 font=KHDotKagurazaka priority=12]
+un élève de cette école.
+[/text]
+
+
+[text posX=240 posY=360 fontsize=15 color=#000000 font=KHDotKagurazaka priority=12]
+Numéro de l'étudiant: 100620714
+[/text]
+
+
+[text posX=240 posY=388 fontsize=15 color=#000000 font=KHDotKagurazaka priority=12]
+Sexe: Homme
+[/text]
+
+
+
+
+
+
+
+[text posX=240 posY=420 fontsize=15 color=#000000 font=KHDotKagurazaka priority=12]
+Nom: Yomei Kimi
+[/text]
+
+
+[text posX=240 posY=448 fontsize=15 color=#000000 font=KHDotKagurazaka priority=12]
+Date de naissance: 28 octobre
+[/text]
+
+
+[text posX=130 posY=488 fontsize=15 color=#000000 font=KHDotKagurazaka priority=12]
+Remarque: 
+[/text]
+
+
+[text posX=230 posY=470 fontsize=15 color=#000000 font=KHDotKagurazaka priority=12]
+Admissibilité au lycée
+[/text]
+
+
+[text posX=230 posY=488 fontsize=15 color=#000000 font=KHDotKagurazaka priority=12]
+Subvention d'appui aux études
+[/text]
+
+
+[text posX=1110 posY=223 fontsize=30 color=#000000 font=KHDotKagurazaka priority=12]
+Commentaires
+[/text]
+
+
+[text posX=900 posY=270 fontsize=20 color=#000000 font=KHDotKagurazaka priority=12]
+Premier mandat
+[/text]
+
+
+[text posX=640 posY=300 fontsize=20 color=#000000 font=KHDotKagurazaka priority=12]
+Pas de problèmes scolaires particuliers.
+[/text]
+
+
+[text posX=640 posY=335 fontsize=20 color=#000000 font=KHDotKagurazaka priority=12]
+Exécute les tâches de classe avec sérieux et paie très près
+[/text]
+
+
+[text posX=640 posY=370 fontsize=20 color=#000000 font=KHDotKagurazaka priority=12]
+attention aux environs pendant les activités de groupe.
+[/text]
+
+
+[text posX=640 posY=405 fontsize=20 color=#000000 font=KHDotKagurazaka priority=12]
+Ne montre aucun problème dans la communication ou la déclaration
+[/text]
+
+
+[text posX=640 posY=440 fontsize=20 color=#000000 font=KHDotKagurazaka priority=12]
+avec des enseignants.
+[/text]
+
+
+[text posX=640 posY=475 fontsize=20 color=#000000 font=KHDotKagurazaka priority=12]
+
+[/text]
+
+
+[text posX=640 posY=510 fontsize=20 color=#000000 font=KHDotKagurazaka priority=12]
+En outre, comme mentionné précédemment, veuillez soumettre votre
+[/text]
+
+
+[text posX=640 posY=545 fontsize=20 color=#000000 font=KHDotKagurazaka priority=12]
+Formulaire d'enquête sur l'environnement des ménages.
+[/text]
+
+
+[text posX=640 posY=580 fontsize=20 color=#000000 font=KHDotKagurazaka priority=12]
+Nous n'avons pas pu vous joindre par téléphone, alors nous sommes
+[/text]
+
+
+[text posX=640 posY=615 fontsize=20 color=#000000 font=KHDotKagurazaka priority=12]
+vous contacter ici aussi.
+[/text]
+
+
+[text posX=640 posY=650 fontsize=20 color=#000000 font=KHDotKagurazaka priority=12]
+Merci pour votre coopération.
+[/text]
+
+
+[text posX=640 posY=685 fontsize=20 color=#000000 font=KHDotKagurazaka priority=12]
+
+[/text]

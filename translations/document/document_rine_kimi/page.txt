@@ -1,0 +1,395 @@
+
+■page_0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[text posX=560 posY=134 fontsize=15 color=#FFFFFF font=PixelMplus10 priority=21]
+Pas de soucis!
+[/text]
+
+[text posX=560 posY=184 fontsize=15 color=#FFFFFF font=PixelMplus10 priority=21]
+Alors attendez-moi!
+[/text]
+
+[text posX=768 posY=234 fontsize=15 color=#000000 font=PixelMplus10 priority=21 align=Right]
+Très bien.
+[/text]
+
+[text posX=774 posY=290 fontsize=15 color=#000000 font=PixelMplus10 priority=21 align=Right]
+Appel téléphonique
+[/text]
+
+[text posX=768 posY=310 fontsize=15 color=#000000 font=PixelMplus10 priority=21 align=Right]
+(0:15)
+[/text]
+
+[text posX=592 posY=384 fontsize=15 color=#FFFFFF font=PixelMplus10 priority=21]
+Appel manqué
+[/text]
+
+[text posX=592 posY=467 fontsize=15 color=#FFFFFF font=PixelMplus10 priority=21]
+Appel manqué
+[/text]
+
+[text posX=592 posY=550 fontsize=15 color=#FFFFFF font=PixelMplus10 priority=21]
+Appel manqué
+[/text]
+
+[text posX=600 posY=484 fontsize=12 color=#000000 font=PixelMplus10 priority=21]
+
+[/text]
+
+[text posX=560 posY=534 fontsize=12 color=#FFFFFF font=PixelMplus10 priority=21]
+
+[/text]
+
+[text posX=600 posY=584 fontsize=12 color=#000000 font=PixelMplus10 priority=21]
+
+[/text]
+
+
+
+
+
+[text posX=504 posY=160 fontsize=10 color=#000000 font=PixelMplus10 priority=21]
+Anatas
+[/text]
+
+[sprite source=09_sns/icon_anata posX=500 posY=126 sizeX=16 sizeY=16 priority=20]
+
+
+
+
+
+
+
+[sprite source=09_sns/rine_kimi/chat_1_L posX=538 posY=126 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine_kimi/chat_1_C posX=554 posY=126 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine_kimi/chat_1_C posX=570 posY=126 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine_kimi/chat_1_C posX=586 posY=126 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine_kimi/chat_1_C posX=602 posY=126 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine_kimi/chat_1_C posX=618 posY=126 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine_kimi/chat_1_C posX=634 posY=126 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine_kimi/chat_1_R posX=650 posY=126 sizeX=16 sizeY=16 priority=20]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[text posX=504 posY=210 fontsize=10 color=#000000 font=PixelMplus10 priority=21]
+
+[/text]
+
+
+
+
+
+
+
+
+
+[sprite source=09_sns/rine_kimi/chat_1_L posX=538 posY=176 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine_kimi/chat_1_C posX=554 posY=176 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine_kimi/chat_1_C posX=570 posY=176 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine_kimi/chat_1_C posX=586 posY=176 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine_kimi/chat_1_C posX=602 posY=176 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine_kimi/chat_1_C posX=618 posY=176 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine_kimi/chat_1_C posX=634 posY=176 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine_kimi/chat_1_C posX=650 posY=176 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine_kimi/chat_1_C posX=666 posY=176 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine_kimi/chat_1_R posX=682 posY=176 sizeX=16 sizeY=16 priority=20]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[sprite source=09_sns/rine_kimi/chatMe_1_L posX=698 posY=226 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine_kimi/chatMe_1_C posX=714 posY=226 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine_kimi/chatMe_1_C posX=730 posY=226 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine_kimi/chatMe_1_R posX=762 posY=226 sizeX=16 sizeY=16 priority=20]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[sprite source=09_sns/rine_kimi/huzai_right posX=634 posY=273 sizeX=16 sizeY=16 priority=20]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[text posX=504 posY=390 fontsize=10 color=#000000 font=PixelMplus10 priority=21]
+Anatas
+[/text]
+
+[sprite source=09_sns/icon_anata posX=500 posY=356 sizeX=16 sizeY=16 priority=20]
+
+
+
+
+
+
+
+[sprite source=09_sns/rine_kimi/huzai_left posX=538 posY=356 sizeX=16 sizeY=16 priority=20]
+
+
+
+
+
+
+
+[sprite source=09_sns/rine_kimi/huzai_left posX=538 posY=439 sizeX=16 sizeY=16 priority=20]
+
+
+
+
+
+
+
+[sprite source=09_sns/rine_kimi/huzai_left posX=538 posY=522 sizeX=16 sizeY=16 priority=20]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

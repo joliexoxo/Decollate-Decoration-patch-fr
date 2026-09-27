@@ -1,0 +1,4 @@
+■page_0
+[button posX=497 posY=49 source=81_button/back_button1 action=document_close(document_rine,document_photo) priority=11 shortcut=B]
+
+

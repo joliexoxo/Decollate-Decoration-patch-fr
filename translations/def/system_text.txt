@@ -1,0 +1,152 @@
+1	56010
+2	56020
+3	56030
+4	56040
+5	56050
+6	56060
+7	56070
+8	56080
+9	56090
+10	56100
+11	56110
+12	56120
+13	56130
+14	56140
+15	56150
+16	56160
+INDEX_START	Commencer
+
+SAVE_SKIP_MESSAGE_DEBUG	(Données après utilisation du mode débogage)
+SAVE_SKIP_MESSAGE	(Données après avoir passé un choix)
+SAVE_DIFFERENT_LANGUAGE_MESSAGE	Langue différente
+
+WORD_NO_FILTER	Aucun filtre
+
+OPTION_SOUND	Son
+OPTION_SOUND_BGM	Volume de la musique
+OPTION_SOUND_SE	Volume des effets
+OPTION_SOUND_VOICE	Volume des voix
+OPTION_SOUND_IN_VOICE	Volume musique/effets pendant les voix
+OPTION_SOUND_CHARACTER	Voix des personnages
+OPTION_SOUND_CHARACTER_ALL	Tout modifier
+OPTION_SOUND_MESSAGE_SE	Son du texte
+
+OPTION_SYSTEM_TEXT	Texte
+OPTION_SYSTEM_TEXT_SPEED	Vitesse du texte
+OPTION_SYSTEM_TEXT_AUTO	Lecture automatique
+OPTION_SYSTEM_TEXT_SKIP	Passer
+OPTION_SYSTEM_TEXT_TYPE1	Action pendant une voix
+OPTION_SYSTEM_TEXT_TYPE2	Action pendant la lecture auto
+
+OPTION_SYSTEM_VIEW	Affichage
+OPTION_SYSTEM_VIEW_TEXTBOX	Transparence de la boîte de dialogue
+OPTION_SYSTEM_VIEW_OUTLINE	Style du texte
+OPTION_SYSTEM_VIEW_HIDE_BUTTON	Masquer le menu du bas
+OPTION_SYSTEM_VIEW_KEYASSIGN	Afficher les touches
+OPTION_SYSTEM_VIEW_SOFTEN_VISUALS	Adoucir les images
+OPTION_SYSTEM_VIEW_LANGUAGE	Langue
+OPTION_SYSTEM_VIEW_FULLSCREEN	Mode d'affichage
+OPTION_SYSTEM_VIEW_RESOLUTION	Résolution
+
+OPTION_SYSTEM_GENERAL	Général
+
+OPTION_SYSTEM_BUTTON_TYPE	Fonction des touches directionnelles
+OPTION_SYSTEM_BUTTON_TYPE_SWITCH	Fonction des touches directionnelles
+OPTION_SYSTEM_BUTTON_TYPE_PS	Fonction des touches directionnelles
+
+OPTION_SYSTEM_DELETE	Effacer les sauvegardes
+OPTION_SYSTEM_UNLOCK	Tout débloquer
+OPTION_SYSTEM_RESET	Réglages par défaut
+
+OPTION_POPUP_UNLOCK	À utiliser seulement en cas de perte de données ou de problème similaire
+
+OPTION_ELEMENT_VOLUME_BIG	Max
+OPTION_ELEMENT_VOLUME_SMALL	Désactivé
+OPTION_ELEMENT_IN_VOICE_100	Aucun réglage automatique
+OPTION_ELEMENT_IN_VOICE_90	Baisser de 10 %
+OPTION_ELEMENT_IN_VOICE_80	Baisser de 20 %
+OPTION_ELEMENT_IN_VOICE_70	Baisser de 30 %
+OPTION_ELEMENT_IN_VOICE_60	Baisser de 40 %
+OPTION_ELEMENT_IN_VOICE_50	Baisser de 50 %
+OPTION_ELEMENT_IN_VOICE_40	Baisser de 60 %
+OPTION_ELEMENT_IN_VOICE_30	Baisser de 70 %
+OPTION_ELEMENT_IN_VOICE_20	Baisser de 80 %
+OPTION_ELEMENT_IN_VOICE_10	Baisser de 90 %
+OPTION_ELEMENT_FAST	Rapide
+OPTION_ELEMENT_SLOW	Lent
+OPTION_ELEMENT_SKIP_ALL	Tout
+OPTION_ELEMENT_SKIP_DEFAULT	Texte déjà lu
+OPTION_ELEMENT_TEXT_TYPE1_KEEP	Continuer la voix
+OPTION_ELEMENT_TEXT_TYPE1_STOP	Couper la voix
+OPTION_ELEMENT_TEXT_TYPE2_CANCEL	Arrêter l'auto
+OPTION_ELEMENT_TEXT_TYPE2_KEEP	Continuer le texte
+OPTION_ELEMENT_THIN	Clair
+OPTION_ELEMENT_DARK	Foncé
+OPTION_ELEMENT_OUTLINE	Contour
+OPTION_ELEMENT_SHADOW	Ombre
+OPTION_ELEMENT_ON	Activé
+OPTION_ELEMENT_OFF	Désactivé
+OPTION_ELEMENT_BUTTON_TYPE_A	ABXY
+OPTION_ELEMENT_BUTTON_TYPE_A_SWITCH	ABXY
+OPTION_ELEMENT_BUTTON_TYPE_A_PS	Touches ◯/×/△/□
+OPTION_ELEMENT_BUTTON_TYPE_B	Flèches
+OPTION_ELEMENT_BUTTON_TYPE_B_SWITCH	Flèches
+OPTION_ELEMENT_BUTTON_TYPE_B_PS	Touches directionnelles
+OPTION_ELEMENT_SUBMIT	Appliquer
+OPTION_ELEMENT_LANGUAGE_JAPANESE	Japonais
+OPTION_ELEMENT_LANGUAGE_ENGLISH	Anglais
+OPTION_ELEMENT_LANGUAGE_CHINESE_S	Chinois simplifié
+OPTION_ELEMENT_LANGUAGE_CHINESE_T	Chinois traditionnel
+OPTION_ELEMENT_LANGUAGE_KOREA	Coréen
+OPTION_ELEMENT_FULLSCREEN	Plein écran
+OPTION_ELEMENT_WINDOW	Fenêtré
+OPTION_ELEMENT_WINDOW_FHD	1920✕1080
+OPTION_ELEMENT_WINDOW_HD	1280✕720
+OPTION_ELEMENT_RESOLUTION_4K	4K
+OPTION_ELEMENT_RESOLUTION_FHD	FHD
+OPTION_ELEMENT_RESOLUTION_HD	HD
+
+OPTION_MUSIC_GUIDE_SUBMIT	
+OPTION_MUSIC_GUIDE_CANCEL	
+OPTION_MUSIC_GUIDE_MENU	
+OPTION_MUSIC_GUIDE_OPTION	
+OPTION_MUSIC_GUIDE_L1	
+OPTION_MUSIC_GUIDE_R1	
+
+DIALOG_BILLING	Merci de jouer.@nLa suite de l'histoire@nsera disponible après l'achat du chapitre suivant.@nOuvrir l'écran d'achat ?
+DIALOG_PS_BROKEN_SAVEDATA	Les données système sont endommagées. Le jeu va les réinitialiser. Pour récupérer ta progression, utilise l'option « Tout débloquer ».
+DIALOG_WORD_ALREADY_READ	Marquer tout comme déjà lu ?
+DIALOG_RETURN_TITLE	Retourner au titre ?
+DIALOG_QUIT_GAME	Fermer le jeu ?
+DIALOG_OPEN_REVIEW_API	Ouvrir les avis
+DIALOG_OPEN_REVIEW	Écrire un avis@n@nTu veux laisser un avis sur la boutique ?@nTes commentaires nous aident beaucoup@nà améliorer nos jeux !
+DIALOG_JUMP_NEXT	Passer au prochain choix@nou au début du chapitre ?
+DIALOG_SAVE_CREATE	Sauvegarder ?
+DIALOG_SAVE_OVERWRITE	Écraser la sauvegarde ?
+DIALOG_LOAD	Charger ?
+DIALOG_SAVE_DELETE	Les sauvegardes et les fonctions du jeu@nseront réinitialisées.@nTu veux continuer ?
+DIALOG_OPTION_RESET	Remettre les réglages@npar défaut ?
+DIALOG_APPEND_INFO	
+DIALOG_XBOX_SIGNINERROR	Échec de la connexion au réseau Xbox.@nVérifie ta connexion Internet.@n@nAppuie sur A pour réessayer.
+DIALOG_SWITCH_LANGUAGE	Le jeu doit redémarrer@npour changer de langue.@nTu veux continuer ?
+DIALOG_SWITCH_RESOLUTION	Le jeu doit redémarrer@npour changer la résolution.@nTu veux continuer ?
+Ça te va ?
+
+DIALOG_BUTTON_LOAD	Charger
+DIALOG_BUTTON_OVERWRITE	Écraser
+DIALOG_BUTTON_JUMP	Passer
+DIALOG_BUTTON_RETURN_TITLE	Retour
+DIALOG_BUTTON_DELETE	Effacer
+DIALOG_BUTTON_CANCEL	Annuler
+DIALOG_BUTTON_SUBMIT	Appliquer
+DIALOG_BUTTON_OK	OK
+DIALOG_BUTTON_SIGNIN	Se connecter
+
+TOAST_WORD_ALREADY_READ	Tout est marqué comme déjà lu.
+TOAST_SAVE	Partie sauvegardée.
+TOAST_QUICK_SAVE	Sauvegarde rapide terminée.
+TOAST_LOAD	Partie chargée.
+TOAST_QUICK_LOAD	Chargement rapide terminé.
+TOAST_SAVE_DELETE	Données effacées.
+TOAST_RESTORE	Achats restaurés.
+TOAST_OPTION_RESET	Réglages réinitialisés.

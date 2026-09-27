@@ -1,0 +1,331 @@
+
+■page_0
+
+
+
+[button posX=290 posY=635 source=ui/$var[f.RINE03Lオフ] source_on=ui/$var[f.RINE03Lオン] source_select=ui/$var[f.RINE03Lオン] action=document_close(document_rine03) action=document_open_menu(document_rine02) priority=21 shortcut=$var[f.RINE03Lボタン割当] guide=$var[f.RINE03Lボタンガイド割当]]
+
+
+
+[button posX=938 posY=635 source=ui/$var[f.RINE03Rオフ] source_on=ui/$var[f.RINE03Rオン] source_select=ui/$var[f.RINE03Rオン] action=document_close(document_rine03) action=document_open_menu(document_rine04) priority=21 shortcut=$var[f.RINE03Rボタン割当] guide=$var[f.RINE03Rボタンガイド割当] guideX=55]
+
+
+
+[button posX=500 posY=134 source=09_sns/zoom_rine source_on=09_sns/zoom_rine source_select=09_sns/zoom_rine action=document_open_menu(document_rine03_zoom) priority=21 shortcut=A]
+
+
+
+[text posX=560 posY=134 fontsize=12 color=#FFFFFF font=PixelMplus10 priority=21]
+
+[/text]
+
+[text posX=560 posY=184 fontsize=12 color=#FFFFFF font=PixelMplus10 priority=21]
+
+[/text]
+
+[text posX=560 posY=234 fontsize=12 color=#FFFFFF font=PixelMplus10 priority=21]
+
+[/text]
+
+[text posX=560 posY=283 fontsize=15 color=#FFFFFF font=PixelMplus10 priority=21]
+Je peux montrer ça à
+[/text]
+
+[text posX=560 posY=302 fontsize=15 color=#FFFFFF font=PixelMplus10 priority=21]
+Takemura et le grp
+[/text]
+
+[text posX=768 posY=351 fontsize=15 color=#000000 font=PixelMplus10 priority=21 align=Right]
+C'était attendu!
+[/text]
+
+[text posX=560 posY=384 fontsize=12 color=#FFFFFF font=PixelMplus10 priority=21]
+
+[/text]
+
+[text posX=600 posY=484 fontsize=12 color=#000000 font=PixelMplus10 priority=21]
+
+[/text]
+
+[text posX=560 posY=534 fontsize=12 color=#FFFFFF font=PixelMplus10 priority=21]
+
+[/text]
+
+[text posX=600 posY=584 fontsize=12 color=#000000 font=PixelMplus10 priority=21]
+
+[/text]
+
+
+
+
+
+[sprite source=09_sns/rine/akune_RINE posX=560 posY=134 sizeX=119 sizeY=63 priority=20]
+
+
+
+[text posX=504 posY=310 fontsize=10 color=#000000 font=PixelMplus10 priority=21]
+Akune
+[/text]
+
+[sprite source=09_sns/icon_1_akune posX=500 posY=276 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine/chat_2_L posX=538 posY=276 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine/chat_2_C posX=554 posY=276 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine/chat_2_C posX=570 posY=276 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine/chat_2_C posX=586 posY=276 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine/chat_2_C posX=602 posY=276 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine/chat_2_C posX=618 posY=276 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine/chat_2_C posX=634 posY=276 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine/chat_2_C posX=650 posY=276 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine/chat_2_C posX=666 posY=276 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine/chat_2_C posX=682 posY=276 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine/chat_2_C posX=698 posY=276 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine/chat_2_C posX=714 posY=276 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine/chat_2_R posX=730 posY=276 sizeX=16 sizeY=16 priority=20]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[sprite source=09_sns/rine/chatMe_1_L posX=586 posY=342 sizeX=16 sizeY=16 priority=20]
+
+
+
+
+
+
+
+[sprite source=09_sns/rine/chatMe_1_C posX=618 posY=342 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine/chatMe_1_C posX=634 posY=342 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine/chatMe_1_C posX=650 posY=342 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine/chatMe_1_C posX=666 posY=342 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine/chatMe_1_C posX=682 posY=342 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine/chatMe_1_C posX=698 posY=342 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine/chatMe_1_C posX=714 posY=342 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine/chatMe_1_C posX=730 posY=342 sizeX=16 sizeY=16 priority=20]
+
+
+
+[sprite source=09_sns/rine/chatMe_1_R posX=762 posY=342 sizeX=16 sizeY=16 priority=20]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

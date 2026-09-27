@@ -1,0 +1,143 @@
+
+
+■page_0
+
+
+
+[button posX=1188 posY=16 source=81_button/back_button1 source_on=81_button/back_button2 source_select=81_button/back_button2 action=document_close(document_credit,document_hint) priority=12 shortcut=B guide=b01_off_sub guideX=-20 guideY=20]
+
+
+
+
+
+
+
+
+
+
+
+[sprite source=08_pupup/off posX=190 posY=82 sizeX=1280 sizeY=720 priority=12]
+
+
+
+[sprite source=08_pupup/off posX=190 posY=262 sizeX=1280 sizeY=720 priority=12]
+
+
+
+[sprite source=08_pupup/off posX=190 posY=442 sizeX=1280 sizeY=720 priority=12]
+
+
+
+[sprite source=08_pupup/off posX=680 posY=82 sizeX=1280 sizeY=720 priority=12]
+
+
+
+[sprite source=08_pupup/off posX=680 posY=262 sizeX=1280 sizeY=720 priority=12]
+
+
+
+[sprite source=08_pupup/off posX=680 posY=493 sizeX=1280 sizeY=720 priority=12]
+
+
+
+
+
+
+
+[sprite source=08_pupup/$var[sf.end1] posX=190 posY=82 sizeX=1280 sizeY=720 priority=13]
+
+
+
+[sprite source=08_pupup/$var[sf.end2] posX=190 posY=262 sizeX=1280 sizeY=720 priority=13]
+
+
+
+[sprite source=08_pupup/$var[sf.end4] posX=190 posY=442 sizeX=1280 sizeY=720 priority=13]
+
+
+
+[sprite source=08_pupup/$var[sf.end5] posX=680 posY=82 sizeX=1280 sizeY=720 priority=13]
+
+
+
+[sprite source=08_pupup/$var[sf.end6] posX=680 posY=262 sizeX=1280 sizeY=720 priority=13]
+
+
+
+[sprite source=08_pupup/$var[sf.end3] posX=680 posY=493 sizeX=1280 sizeY=720 priority=13]
+
+
+
+
+
+
+
+■page_1
+
+
+
+[button posX=1188 posY=16 source=81_button/back_button1 source_on=81_button/back_button2 source_select=81_button/back_button2 action=document_close(document_credit,document_hint) priority=12 shortcut=B guide=b01_off_sub guideX=-20 guideY=20]
+
+
+
+[sprite source=08_pupup/hint2_1,08_pupup/hint2_2,08_pupup/hint2_3 source_type=rand posX=0 posY=0 sizeX=1280 sizeY=720 priority=11]
+
+
+
+[text posX=1082 posY=600 fontsize=15 color=#FFFFFF font=FAMania priority=12]More Hints![/text]
+
+
+
+
+
+
+
+
+
+
+
+■page_2
+
+
+
+[button posX=1188 posY=16 source=81_button/back_button1 source_on=81_button/back_button2 source_select=81_button/back_button2 action=document_close(document_credit,document_hint) priority=12 shortcut=B guide=b01_off_sub guideX=-20 guideY=20]
+
+
+
+[sprite source=08_pupup/hint2_1,08_pupup/hint2_2,08_pupup/hint2_3 source_type=rand posX=0 posY=0 sizeX=1280 sizeY=720 priority=11]
+
+
+
+[sprite source=08_pupup/hinticon posX=0 posY=0 sizeX=1280 sizeY=720 priority=12]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[text posX=514 posY=450 fontsize=15 color=#FFFFFF font=FAMania priority=12]Sense[/text]
+
+
+
+[text posX=618 posY=450 fontsize=15 color=#FFFFFF font=FAMania priority=12]Psyche[/text]
+
+
+
+[text posX=738 posY=450 fontsize=15 color=#FFFFFF font=FAMania priority=12]Memory[/text]

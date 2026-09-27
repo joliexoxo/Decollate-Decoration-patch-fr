@@ -1,0 +1,6 @@
+1,0,01,se_gamestart1,Démarrage du jeu,@n@n@n@n
+2,0,02,towaninemuru,Thème d'ouverture,@n@n@n@n
+3,0,03,decodeco_maintheme,Thème principal,@n@n@n@n
+4,0,04,ohune,Vraie fin,@n@n@n@n
+5,0,05,DecoDeco_Nichijo,Prologue (jour),@n@n@n@n
+6,0,06,DecoDeco_Kigae,Prologue (nuit),@n@n@n@n

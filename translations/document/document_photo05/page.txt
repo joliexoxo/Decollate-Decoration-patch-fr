@@ -1,0 +1,92 @@
+
+■page_0
+
+
+[sprite source=09_sns/inusta/April_inusuta posX=474 posY=6 sizeX=174 sizeY=348 priority=16]
+
+
+[button posX=500 posY=146 source=09_sns/zoom_inusuta source_on=09_sns/zoom_inusuta source_select=09_sns/zoom_inusuta action=document_open_menu(document_photo01_zoom) priority=21 shortcut=A]
+
+
+■page_1
+
+
+[sprite source=09_sns/inusta/akune_inusuta posX=474 posY=6 sizeX=174 sizeY=348 priority=16]
+
+
+[button posX=500 posY=146 source=09_sns/zoom_inusuta source_on=09_sns/zoom_inusuta source_select=09_sns/zoom_inusuta action=document_open_menu(document_photo02_zoom) priority=21 shortcut=A]
+
+
+■page_2
+
+
+[sprite source=09_sns/inusta/May_inusuta posX=474 posY=6 sizeX=174 sizeY=348 priority=16]
+
+
+[button posX=500 posY=146 source=09_sns/zoom_inusuta source_on=09_sns/zoom_inusuta source_select=09_sns/zoom_inusuta action=document_open_menu(document_photo03_zoom) priority=21 shortcut=A]
+
+
+■page_3
+
+
+[sprite source=09_sns/inusta/June_inusuta posX=474 posY=6 sizeX=174 sizeY=348 priority=16]
+
+
+[button posX=500 posY=146 source=09_sns/zoom_inusuta source_on=09_sns/zoom_inusuta source_select=09_sns/zoom_inusuta action=document_open_menu(document_photo04_zoom) priority=21 shortcut=A]
+
+
+■page_4
+
+
+[sprite source=09_sns/inusta/neko_inusuta posX=474 posY=6 sizeX=174 sizeY=348 priority=16]
+
+
+[button posX=500 posY=146 source=09_sns/zoom_inusuta source_on=09_sns/zoom_inusuta source_select=09_sns/zoom_inusuta action=document_open_menu(document_photo05_zoom) priority=21 shortcut=A]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

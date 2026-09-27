@@ -1,6 +1,6 @@
 # DecollateFR
 
-Patch communautaire français pour **Decollate Decoration**, chargé par BepInEx 5 et Harmony sans modifier `Assembly-CSharp.dll`.
+Patch communautaire français pour [**Decollate Decoration**](https://store.steampowered.com/app/3155570/Decollate_Decoration/), chargé par BepInEx 5 et Harmony sans modifier `Assembly-CSharp.dll`.
 
 ## Méthodes hookées
 
